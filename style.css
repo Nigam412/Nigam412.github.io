@@ -45,5 +45,9 @@ h2 {
     color:red;
     padding: 10px;
     width: fit-content;
+    mmargin: 0;         /* gap hata diya */
+    padding: 0;        /* extra space hata diya */
+    line-height: 1.2;
     margin: 5px auto;
+    
 }
